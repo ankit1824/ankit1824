@@ -1,6 +1,6 @@
 <!-- TOP IMAGE -->
 <p align="center">
-  <img src="#" alt="Profile Banner" width="300px">
+  <img src="https://github.com/ankit1824/ankit1824/blob/main/images/3f0fce2af4b1a5b05544a62700516b88.jpg" alt="Profile Banner" width="300px">
 </p>
 
 ---
@@ -78,7 +78,7 @@
 <h3>🍽️ SmartBill</h3>
 <p>Full-stack Restaurant POS & Billing System</p>
 <p>MERN-based solution for order, billing & payment workflows</p>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/ankit1824/Restaurant_POS_System"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </td>
 
@@ -87,8 +87,8 @@
 <h3>🤖 AI Course Architect</h3>
 <p>Personalized course generation using AI</p>
 <p>Prompt-driven learning paths with structured modules</p>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Live-Demo-6A1B9A?style=for-the-badge"></a>
+<a href="https://github.com/ankit1824/AI-Course-Architect"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://skillsurgefinal.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-6A1B9A?style=for-the-badge"></a>
 
 </td>
 </tr>
