@@ -56,7 +56,7 @@
 
 ### 🥇 Competitive Programming
 <p>
-  <img src="#" width="140">
+  <img src="https://github.com/ankit1824/ankit1824/blob/main/images/50Days.gif" width="140">
   <img src="#" width="140">
 </p>
 
