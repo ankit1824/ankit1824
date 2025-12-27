@@ -69,7 +69,6 @@
 - 🏅 CodeChef: **1695**
 - 🏅 LeetCode: **1547**
 - 🏅 Codeforces: **1182**
-- 🥇 Top 5 @ **Kriyeta 4.0**, AITR Indore
 
 ---
 
