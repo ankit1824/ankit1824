@@ -66,9 +66,9 @@
 
 - 🧩 **400+ DSA problems solved**
 - 🔥 Consistent LeetCode & CodeChef practice
-- 🏅 CodeChef: **1695**
-- 🏅 LeetCode: **1547**
-- 🏅 Codeforces: **1182**
+- 🏅 CodeChef: **1824**
+- 🏅 LeetCode: **2007**
+- 🏅 Codeforces: **1570**
 
 ---
 
