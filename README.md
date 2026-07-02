@@ -12,9 +12,8 @@
 ## 💫 About Me
 - 💻 Grinding **DSA daily** and building **production-level full-stack projects**
 - ⚙️ Strong in **C, C++, JavaScript & SQL** with solid **CS fundamentals**
-- 🤖 Exploring **AI-powered systems** and prompt-driven applications
 - 🚀 Love converting ideas into **real, usable products**
-- 🎌 Anime fan | ☕ late-night debugger | 🧠 problem solver
+- ☕ late-night debugger | 🧠 problem solver
 
 ---
 
@@ -64,8 +63,7 @@
   <img src="https://github.com/ankit1824/ankit1824/blob/main/images/100%20days.gif" width="140">
 </p>
 
-- 🧩 **400+ DSA problems solved**
-- 🔥 Consistent LeetCode & CodeChef practice
+- 🧩 **650+ DSA problems solved**
 - 🏅 CodeChef: **1824**
 - 🏅 LeetCode: **2007**
 - 🏅 Codeforces: **1570**
@@ -78,20 +76,21 @@
 <tr>
 <td width="50%" align="center" style="background-color:#f3e5f5; border-radius:10px; padding:15px; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
 
-<h3>🍽️ SmartBill</h3>
-<p>Full-stack Restaurant POS & Billing System</p>
-<p>MERN-based solution for order, billing & payment workflows</p>
-<a href="https://github.com/ankit1824/Restaurant_POS_System"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<h3>Hostel-IQ</h3>
+<p>Smart Hostel & Room Allocation Platform</p>
+<p>A graph-based hostel and room allocation system built on the MERN stack </p>
+<a href="https://github.com/ankit1824/Hostel-IQ"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://hostel-iq-nu.vercel.app/login"><img src="https://img.shields.io/badge/Live-Demo-6A1B9A?style=for-the-badge"></a>
 
 </td>
 
 <td width="50%" align="center" style="background-color:#f3e5f5; border-radius:10px; padding:15px; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
 
-<h3>🤖 AI Course Architect</h3>
+<h3>TeamMatch-AI</h3>
 <p>Personalized course generation using AI</p>
 <p>Prompt-driven learning paths with structured modules</p>
-<a href="https://github.com/ankit1824/AI-Course-Architect"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://skillsurgefinal.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-6A1B9A?style=for-the-badge"></a>
+<a href="https://github.com/ankit1824/TeamMatch-AI"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://team-match-ai-xi.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-6A1B9A?style=for-the-badge"></a>
 
 </td>
 </tr>
