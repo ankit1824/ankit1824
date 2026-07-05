@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="800" height="220">
+  <style>
+    .title { font-family: 'Orbitron', 'Segoe UI', monospace; font-weight: 900; fill: #ffd700; font-size: 18px; letter-spacing: 2px; }
+    .subtitle { font-family: 'Segoe UI', sans-serif; font-weight: 700; fill: #ffffff; font-size: 13px; letter-spacing: 1px; }
+    .body { font-family: 'Segoe UI', sans-serif; fill: #a3a3a3; font-size: 12px; }
+    .tech-tag { font-family: 'Orbitron', monospace; font-weight: 700; fill: #ffd700; font-size: 10px; }
+  </style>
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <rect width="800" height="220" rx="12" fill="#06080c" stroke="#1f2438" stroke-width="1.5" />
+  <path d="M 0 40 L 800 40 M 0 80 L 800 80 M 0 120 L 800 120 M 0 160 L 800 160 M 200 0 L 200 220" stroke="#121620" stroke-width="1" />
+
+  <g transform="translate(40, 30)">
+    <rect width="160" height="160" rx="10" fill="#0d1117" stroke="#ffd700" stroke-width="1.5" filter="url(#glow)" />
+    <line x1="80" y1="50" x2="50" y2="100" stroke="#ffaa00" stroke-width="1.5" />
+    <line x1="80" y1="50" x2="110" y2="100" stroke="#ffaa00" stroke-width="1.5" />
+    <line x1="50" y1="100" x2="110" y2="100" stroke="#ffd700" stroke-width="1.5" />
+    <line x1="50" y1="100" x2="80" y2="130" stroke="#ffd700" stroke-width="1.5" />
+    <line x1="110" y1="100" x2="80" y2="130" stroke="#ffd700" stroke-width="1.5" />
+    <circle cx="80" cy="50" r="10" fill="#070a13" stroke="#ffd700" stroke-width="2" />
+    <circle cx="50" cy="100" r="8" fill="#070a13" stroke="#ffaa00" stroke-width="2" />
+    <circle cx="110" cy="100" r="8" fill="#070a13" stroke="#ffaa00" stroke-width="2" />
+    <circle cx="80" cy="130" r="6" fill="#ffffff" />
+  </g>
+
+  <g transform="translate(230, 35)">
+    <text x="0" y="25" class="title">TEAMMATCH AI</text>
+    <text x="0" y="50" class="subtitle">ML Teammate Matcher &amp; Analyzer</text>
+    <text x="0" y="80" class="body">FastAPI + Neon PostgreSQL backend using KNN and K-Means clustering algorithms.</text>
+    <text x="0" y="100" class="body">Processes 8-dimensional candidate vector profiles to suggest compatible developers.</text>
+    <text x="0" y="120" class="body">Secured Admin portal with JWT authorization to list and manage hackathon entries.</text>
+    <g transform="translate(0, 145)">
+      <rect width="60" height="22" rx="5" fill="#1c180b" stroke="#ffaa00" stroke-width="1" />
+      <text x="30" y="14" class="tech-tag" text-anchor="middle">REACT</text>
+      <rect x="70" width="70" height="22" rx="5" fill="#1c180b" stroke="#ffaa00" stroke-width="1" />
+      <text x="105" y="14" class="tech-tag" text-anchor="middle">FASTAPI</text>
+      <rect x="150" width="120" height="22" rx="5" fill="#1c180b" stroke="#ffd700" stroke-width="1" />
+      <text x="210" y="14" class="tech-tag" text-anchor="middle">NEON POSTGRESQL</text>
+      <rect x="280" width="50" height="22" rx="5" fill="#1c180b" stroke="#ffaa00" stroke-width="1" />
+      <text x="305" y="14" class="tech-tag" text-anchor="middle">KNN</text>
+      <rect x="340" width="75" height="22" rx="5" fill="#1c180b" stroke="#ffaa00" stroke-width="1" />
+      <text x="377.5" y="14" class="tech-tag" text-anchor="middle">K-MEANS</text>
+    </g>
+  </g>
+</svg>
