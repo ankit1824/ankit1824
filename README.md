@@ -4,7 +4,7 @@
 <img src="ankit-header.svg?v=25" alt="Ankit Prajapat" width="100%" />
 
 <!-- Typing SVG (Stealth Gold theme displaying 3 clean dynamic lines) -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&pause=1000&color=ffd700&center=true&vCenter=true&width=1000&lines=FULL_STACK_DEVELOPER;PROBLEM_SOLVER;BACKEND_ENGINEER" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&pause=1000&color=ffd700&center=true&vCenter=true&width=1000&lines=FULL_STACK_DEVELOPER;PROBLEM_SOLVER;SOFTWARE_ENGINEER" />
 
 <!-- Subtitle / Headline Info -->
 <div align="center">
