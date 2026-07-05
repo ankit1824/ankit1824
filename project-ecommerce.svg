@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="800" height="220">
+  <style>
+    .title { font-family: 'Orbitron', 'Segoe UI', monospace; font-weight: 900; fill: #ffd700; font-size: 18px; letter-spacing: 2px; }
+    .subtitle { font-family: 'Segoe UI', sans-serif; font-weight: 700; fill: #ffffff; font-size: 13px; letter-spacing: 1px; }
+    .body { font-family: 'Segoe UI', sans-serif; fill: #a3a3a3; font-size: 12px; }
+    .tech-tag { font-family: 'Orbitron', monospace; font-weight: 700; fill: #ffd700; font-size: 10px; }
+  </style>
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <rect width="800" height="220" rx="12" fill="#06080c" stroke="#1f2438" stroke-width="1.5" />
+  <path d="M 0 40 L 800 40 M 0 80 L 800 80 M 0 120 L 800 120 M 0 160 L 800 160 M 200 0 L 200 220" stroke="#121620" stroke-width="1" />
+
+  <g transform="translate(40, 30)">
+    <rect width="160" height="160" rx="10" fill="#0d1117" stroke="#ffd700" stroke-width="1.5" filter="url(#glow)" />
+    <rect x="35" y="45" width="40" height="45" rx="3" fill="none" stroke="#ffd700" stroke-width="1.5" />
+    <rect x="85" y="45" width="40" height="45" rx="3" fill="none" stroke="#ffd700" stroke-width="1.5" />
+    <rect x="60" y="105" width="40" height="45" rx="3" fill="none" stroke="#ffd700" stroke-width="1.5" />
+    <line x1="75" y1="67.5" x2="85" y2="67.5" stroke="#ffaa00" stroke-width="1.5" />
+    <line x1="60" y1="120" x2="50" y2="120" stroke="#ffaa00" stroke-width="1.5" />
+    <line x1="50" y1="90" x2="50" y2="120" stroke="#ffaa00" stroke-width="1.5" />
+    <line x1="105" y1="90" x2="105" y2="120" stroke="#ffaa00" stroke-width="1.5" />
+    <line x1="100" y1="120" x2="105" y2="120" stroke="#ffaa00" stroke-width="1.5" />
+    <line x1="35" y1="55" x2="75" y2="55" stroke="#ffd700" stroke-width="1.5" />
+    <line x1="85" y1="55" x2="125" y2="55" stroke="#ffd700" stroke-width="1.5" />
+    <line x1="60" y1="115" x2="100" y2="115" stroke="#ffd700" stroke-width="1.5" />
+  </g>
+
+  <g transform="translate(230, 35)">
+    <text x="0" y="25" class="title">E-COMMERCE SYSTEM</text>
+    <text x="0" y="50" class="subtitle">Relational Database System Design</text>
+    <text x="0" y="80" class="body">Highly normalized MySQL database containing 15+ related tables with key constraints.</text>
+    <text x="0" y="100" class="body">Engineered performant SQL queries using complex JOINs, aggregates, and subqueries.</text>
+    <text x="0" y="120" class="body">Maintains transactional integrity for order tracking, shopping carts, and user analytics.</text>
+    <g transform="translate(0, 145)">
+      <rect width="60" height="22" rx="5" fill="#1c180b" stroke="#ffaa00" stroke-width="1" />
+      <text x="30" y="14" class="tech-tag" text-anchor="middle">MYSQL</text>
+      <rect x="70" width="95" height="22" rx="5" fill="#1c180b" stroke="#ffaa00" stroke-width="1" />
+      <text x="117.5" y="14" class="tech-tag" text-anchor="middle">ER MODELING</text>
+      <rect x="175" width="105" height="22" rx="5" fill="#1c180b" stroke="#ffd700" stroke-width="1" />
+      <text x="227.5" y="14" class="tech-tag" text-anchor="middle">SQL QUERIES</text>
+      <rect x="290" width="120" height="22" rx="5" fill="#1c180b" stroke="#ffaa00" stroke-width="1" />
+      <text x="350" y="14" class="tech-tag" text-anchor="middle">DATABASE DESIGN</text>
+    </g>
+  </g>
+</svg>
