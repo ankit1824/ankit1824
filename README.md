@@ -91,7 +91,7 @@
 
 <!-- Project 3: E-Commerce System -->
 <a href="https://github.com/ankit1824/E-commerce-DB" target="_blank">
-  <img src="project-ecommerce.svg?v=5" width="100%" alt="E-Commerce Database System" />
+  <img src="project%20ecommerce.svg?v=5" width="100%" alt="E-Commerce Database System" />
 </a>
 <br/>
 <a href="https://github.com/ankit1824/E-commerce-DB" target="_blank">
