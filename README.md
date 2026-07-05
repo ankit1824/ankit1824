@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Image (Futuristic Name Header) -->
-<img src="ankit-header.svg?v=5" alt="Ankit Prajapat" width="100%" />
+<img src="ankit-header.svg?v=6" alt="Ankit Prajapat" width="100%" />
 
 <!-- Typing SVG (Stealth Gold theme) -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&pause=1000&color=ffd700&center=true&vCenter=true&width=1000&lines=COMPETITIVE_PROGRAMMER_//_GUARDIAN;650%2B_DSA_SOLVED_//_PEAK_RATING_2007;SYSTEM_ONLINE_" />
@@ -35,7 +35,7 @@
 
 <!-- Custom Proving Grounds Dashboard SVG -->
 <p align="center">
-  <img src="ankit-stats.svg?v=5" width="100%" alt="Proving Grounds Stats Dashboard" />
+  <img src="ankit-stats.svg?v=6" width="100%" alt="Proving Grounds Stats Dashboard" />
 </p>
 
 <br/>
@@ -51,7 +51,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffd700&text=✦%20TECHNICAL%20ARSENAL%20✦&height=40&fontSize=26" />
 
 <p align="center">
-  <img src="ankit-skills.svg?v=5" width="100%" alt="Core Arsenal Skills Grid" />
+  <img src="ankit-skills.svg?v=6" width="100%" alt="Core Arsenal Skills Grid" />
 </p>
 
 <hr width="80%">
@@ -61,7 +61,7 @@
 
 <!-- Project 1: TeamMatch AI -->
 <a href="https://github.com/ankit1824/TeamMatch-AI" target="_blank">
-  <img src="project-teammatch.svg?v=5" width="100%" alt="TeamMatch AI Teammate Matcher" />
+  <img src="project-teammatch.svg?v=6" width="100%" alt="TeamMatch AI Teammate Matcher" />
 </a>
 <br/>
 <a href="https://github.com/ankit1824/TeamMatch-AI" target="_blank">
@@ -76,7 +76,7 @@
 
 <!-- Project 2: HostelIQ -->
 <a href="https://github.com/ankit1824/Hostel-IQ" target="_blank">
-  <img src="project-hosteliq.svg?v=5" width="100%" alt="HostelIQ Room Allocation" />
+  <img src="project-hosteliq.svg?v=6" width="100%" alt="HostelIQ Room Allocation" />
 </a>
 <br/>
 <a href="https://github.com/ankit1824/Hostel-IQ" target="_blank">
@@ -91,7 +91,7 @@
 
 <!-- Project 3: E-Commerce System -->
 <a href="https://github.com/ankit1824/E-commerce-DB" target="_blank">
-  <img src="project%20ecommerce.svg?v=5" width="100%" alt="E-Commerce Database System" />
+  <img src="project-ecommerce.svg?v=6" width="100%" alt="E-Commerce Database System" />
 </a>
 <br/>
 <a href="https://github.com/ankit1824/E-commerce-DB" target="_blank">
@@ -104,7 +104,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffd700&text=✦%20LEADERSHIP%20&amp;%20ACTIVITIES%20✦&height=50&fontSize=26" />
 
 <p align="center">
-  <img src="ankit-leadership.svg?v=5" width="100%" alt="Leadership &amp; Activities" />
+  <img src="ankit-leadership.svg?v=6" width="100%" alt="Leadership &amp; Activities" />
 </p>
 
 <br/><br/>
