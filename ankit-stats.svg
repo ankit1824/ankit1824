@@ -25,8 +25,8 @@
   <!-- Subtle grid pattern -->
   <path d="M 0 40 L 800 40 M 0 80 L 800 80 M 0 120 L 800 120 M 0 160 L 800 160 M 0 200 L 800 200 M 150 0 L 150 240 M 300 0 L 300 240 M 500 0 L 500 240 M 650 0 L 650 240" stroke="#121620" stroke-width="1" />
 
-  <!-- Header Title -->
-  <text x="40" y="27" class="title">✦ ALGORITHMIC PERFORMANCE DIAGNOSTICS ✦</text>
+  <!-- Header Title (Removed 'ALGORITHMIC' to prevent repetition) -->
+  <text x="40" y="27" class="title">✦ PERFORMANCE DIAGNOSTICS ✦</text>
   <line x1="40" y1="38" x2="760" y2="38" stroke="#1f2438" stroke-width="1.5" />
 
   <!-- COLUMN 1: LEETCODE (Knight / 1984) -->
