@@ -103,19 +103,9 @@
 <!-- POSITIONS OF RESPONSIBILITY -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffd700&text=✦%20LEADERSHIP%20&amp;%20ACTIVITIES%20✦&height=50&fontSize=26" />
 
-<br/>
-
-<div align="left" style="width: 80%; text-align: left; color: #a3a3a3; font-family: 'Segoe UI', sans-serif;">
-  <ul>
-    <li>🚀 <b>Senior Executive @ Robotics Club - MANIT</b> <span style="float: right;"><i>May 2024 - Present</i></span>
-      <p style="margin-top: 5px; font-size: 13px;">Orchestrated flagship technical robotics events including <b>Automax</b>, <b>Makeathon</b>, and <b>Roborace</b> for 300+ attendees, driving end-to-end event execution and cross-functional team coordination.</p>
-    </li>
-    <br/>
-    <li>💼 <b>Member @ Training and Placement Cell - MANIT</b> <span style="float: right;"><i>Feb 2026 - Present</i></span>
-      <p style="margin-top: 5px; font-size: 13px;">Facilitated campus placement drives and recruitment operations for 300+ student candidates, and built a structured database connecting with 200+ HR industry professionals via LinkedIn.</p>
-    </li>
-  </ul>
-</div>
+<p align="center">
+  <img src="ankit-leadership.svg?v=4" width="100%" alt="Leadership &amp; Activities" />
+</p>
 
 <br/><br/>
 
