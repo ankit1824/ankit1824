@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <style>
+    .name-text { font-family: 'Orbitron', 'Segoe UI', monospace; font-weight: 900; fill: #ffd700; font-size: 32px; letter-spacing: 6px; }
+    .sub-text { font-family: 'Orbitron', monospace; font-weight: 700; fill: #a3a3a3; font-size: 11px; letter-spacing: 4px; }
+    .specs-text { font-family: 'Segoe UI', sans-serif; font-weight: 600; fill: #ffd700; font-size: 12px; letter-spacing: 2px; }
+    .system-status { font-family: monospace; font-size: 10px; fill: #555; }
+    .glow-gold { stroke: #ffd700; filter: url(#glow); }
+  </style>
+
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <linearGradient id="gold-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffd700" />
+      <stop offset="50%" stop-color="#ffaa00" />
+      <stop offset="100%" stop-color="#b8860b" />
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="200" rx="15" fill="#06080c" stroke="url(#gold-grad)" stroke-width="2" />
+  <path d="M 0 40 L 800 40 M 0 160 L 800 160 M 150 0 L 150 200 M 650 0 L 650 200" stroke="#121620" stroke-width="1" />
+  <path d="M 150 40 L 170 60 L 630 60 L 650 40" fill="none" stroke="#ffd700" stroke-width="1" stroke-dasharray="5 5" opacity="0.3" />
+  <path d="M 150 160 L 170 140 L 630 140 L 650 160" fill="none" stroke="#ffd700" stroke-width="1" stroke-dasharray="5 5" opacity="0.3" />
+
+  <path d="M 20 20 L 50 20 M 20 20 L 20 50" fill="none" stroke="#ffd700" stroke-width="2" class="glow-gold" />
+  <path d="M 780 20 L 750 20 M 780 20 L 780 50" fill="none" stroke="#ffd700" stroke-width="2" class="glow-gold" />
+  <path d="M 20 180 L 50 180 M 20 180 L 20 150" fill="none" stroke="#ffd700" stroke-width="2" opacity="0.5" />
+  <path d="M 780 180 L 750 180 M 780 180 L 780 150" fill="none" stroke="#ffd700" stroke-width="2" opacity="0.5" />
+
+  <g transform="translate(400, 100)" text-anchor="middle">
+    <text x="0" y="-15" class="name-text" filter="url(#glow)">ANKIT PRAJAPAT</text>
+    <text x="0" y="15" class="sub-text">COMPETITIVE PROGRAMMER // FULL STACK ENGINEER</text>
+    <text x="0" y="38" class="specs-text">B.TECH ECE (CSE MINOR) @ MANIT BHOPAL</text>
+  </g>
+
+  <g transform="translate(30, 75)" class="system-status">
+    <text x="0" y="0">SYS_LOC: MANIT_IN</text>
+    <text x="0" y="15">CGPA: 8.85/10.0</text>
+    <text x="0" y="30">OP_STATUS: ACTIVE</text>
+    <rect x="0" y="40" width="80" height="4" fill="#ffd700" opacity="0.3" />
+    <rect x="0" y="40" width="65" height="4" fill="#ffd700" class="glow-gold" />
+  </g>
+
+  <g transform="translate(680, 75)" class="system-status">
+    <text x="0" y="0">ALGO_SOLVED: 650+</text>
+    <text x="0" y="15">LC_PEAK: 2007</text>
+    <text x="0" y="30">CF_SPECIALIST: 1515</text>
+    <rect x="0" y="40" width="80" height="4" fill="#ffd700" opacity="0.3" />
+    <rect x="0" y="40" width="72" height="4" fill="#ffd700" class="glow-gold" />
+  </g>
+</svg>
