@@ -1,115 +1,125 @@
-<!-- GREETING -->
-<h2 align="center">👋 Hi there, I'm Ankit Prajapat</h2>
-<p align="center"><em>Welcome to my GitHub space 🚀</em></p>
+<div align="center">
 
-<!-- TOP IMAGE -->
+<!-- Banner Image (Futuristic Name Header) -->
+<img src="ankit-header.svg?v=3" alt="Ankit Prajapat" width="100%" />
+
+<!-- Typing SVG (Stealth Gold theme) -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&pause=1000&color=ffd700&center=true&vCenter=true&width=1000&lines=COMPETITIVE_PROGRAMMER_//_GUARDIAN;650%2B_DSA_SOLVED_//_PEAK_RATING_2007;SYSTEM_ONLINE_" />
+
+<!-- Subtitle / Headline Info -->
+<div align="center">
+  <p><b>Electronics & Communication Engineering (CSE Minor) @ MANIT, Bhopal</b></p>
+  <p><i>Building robust full-stack architectures & optimizing competitive programming systems.</i></p>
+</div>
+
+<!-- Social Links -->
 <p align="center">
-  <img src="https://github.com/ankit1824/ankit1824/blob/main/images/3f0fce2af4b1a5b05544a62700516b88.jpg" alt="Profile Banner" width="300px">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ffd700?style=for-the-badge&logo=linkedin&logoColor=black" height="28px" />
+  </a>
+  &nbsp;
+  <a href="mailto:akprajapat1824@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ffd700?style=for-the-badge&logo=gmail&logoColor=black" height="28px" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ankit1824">
+    <img src="https://img.shields.io/badge/GitHub-ffd700?style=for-the-badge&logo=github&logoColor=black" height="28px" />
+  </a>
 </p>
 
----
+<!-- Styled Divider -->
+<hr width="80%">
 
-## 💫 About Me
-- 💻 Grinding **DSA daily** and building **production-level full-stack projects**
-- ⚙️ Strong in **C, C++, JavaScript & SQL** with solid **CS fundamentals**
-- 🚀 Love converting ideas into **real, usable products**
-- ☕ late-night debugger | 🧠 problem solver
+<!-- PROVING GROUNDS / COMPETITIVE PROGRAMMING -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffd700&text=✦%20ALGORITHMIC%20PROVING%20GROUNDS%20✦&height=40&fontSize=26" />
 
----
-
-## 🛠 Technical Skills
-
-### 💻 Core Programming
-![C](https://img.shields.io/badge/-C-555555?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🌐 Web Development
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🔧 Backend & Databases
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logoColor=white)
-
-### 💡 Soft Skills
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-43A047?style=for-the-badge&logoColor=white)
-![Leadership](https://img.shields.io/badge/-Leadership-8E24AA?style=for-the-badge&logoColor=white)
-![Communication](https://img.shields.io/badge/-Communication-039BE5?style=for-the-badge&logoColor=white)
-![Teamwork](https://img.shields.io/badge/-Teamwork-FFB300?style=for-the-badge&logoColor=white)
-
----
-
-## 🏆 Badges & Achievements
-
-### 🥇 Competitive Programming
-<p>
-  <img src="https://github.com/ankit1824/ankit1824/blob/main/images/Knight.gif" width="140">
-  <img src="https://github.com/ankit1824/ankit1824/blob/main/images/50Days.gif" width="140">
-  <img src="https://github.com/ankit1824/ankit1824/blob/main/images/100%20days.gif" width="140">
+<!-- Custom Proving Grounds Dashboard SVG -->
+<p align="center">
+  <img src="ankit-stats.svg?v=3" width="100%" alt="Proving Grounds Stats Dashboard" />
 </p>
 
-- 🧩 **650+ DSA problems solved**
-- 🏅 CodeChef: **1824**
-- 🏅 LeetCode: **2007**
-- 🏅 Codeforces: **1570**
+<br/>
 
----
+<!-- GitHub Streak Widget -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit1824&theme=radical&hide_border=true&background=0D1117&cache_seconds=86400" width="550" />
+</p>
 
-## 🚀 My Projects
+<hr width="80%">
 
-<table>
-<tr>
-<td width="50%" align="center" style="background-color:#f3e5f5; border-radius:10px; padding:15px; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
-
-<h3>Hostel-IQ</h3>
-<p>Smart Hostel & Room Allocation Platform</p>
-<p>A graph-based hostel and room allocation system built on the MERN stack </p>
-<a href="https://github.com/ankit1824/Hostel-IQ"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://hostel-iq-nu.vercel.app/login"><img src="https://img.shields.io/badge/Live-Demo-6A1B9A?style=for-the-badge"></a>
-
-</td>
-
-<td width="50%" align="center" style="background-color:#f3e5f5; border-radius:10px; padding:15px; box-shadow:0 4px 8px rgba(0,0,0,0.1);">
-
-<h3>TeamMatch-AI</h3>
-<p>Personalized course generation using AI</p>
-<p>Prompt-driven learning paths with structured modules</p>
-<a href="https://github.com/ankit1824/TeamMatch-AI"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://team-match-ai-xi.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-6A1B9A?style=for-the-badge"></a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📬 Let’s Connect!
-If you want to collaborate, build something cool, or talk tech 👇
+<!-- CORE ARSENAL / SKILLS -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffd700&text=✦%20TECHNICAL%20ARSENAL%20✦&height=40&fontSize=26" />
 
 <p align="center">
-  <a href="mailto:akprajapat1824@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ankit-prajapat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/ankit1824"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="ankit-skills.svg?v=3" width="100%" alt="Core Arsenal Skills Grid" />
 </p>
 
----
+<hr width="80%">
 
-<p align="center">
-  <em>“Build systems. Solve problems. Repeat.”</em>
-</p>
+<!-- FEATURED PROJECTS SECTION -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffd700&text=✦%20FEATURED%20PROJECTS%20✦&height=50&fontSize=30" />
+
+<!-- Project 1: TeamMatch AI -->
+<a href="https://github.com/ankit1824/TeamMatch-AI" target="_blank">
+  <img src="project-teammatch.svg?v=3" width="100%" alt="TeamMatch AI Teammate Matcher" />
+</a>
+<br/>
+<a href="https://github.com/ankit1824/TeamMatch-AI" target="_blank">
+  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" height="22px" />
+</a>
+&nbsp;
+<a href="https://team-match-ai-xi.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Link-ffd700?style=flat-square&logoColor=black" height="22px" />
+</a>
+
+<br/><br/><br/>
+
+<!-- Project 2: HostelIQ -->
+<a href="https://github.com/ankit1824/Hostel-IQ" target="_blank">
+  <img src="project-hosteliq.svg?v=3" width="100%" alt="HostelIQ Room Allocation" />
+</a>
+<br/>
+<a href="https://github.com/ankit1824/Hostel-IQ" target="_blank">
+  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" height="22px" />
+</a>
+&nbsp;
+<a href="https://hostel-iq-nu.vercel.app/login" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Link-ffd700?style=flat-square&logoColor=black" height="22px" />
+</a>
+
+<br/><br/><br/>
+
+<!-- Project 3: E-Commerce System -->
+<a href="https://github.com/ankit1824/E-commerce-DB" target="_blank">
+  <img src="project-ecommerce.svg?v=3" width="100%" alt="E-Commerce Database System" />
+</a>
+<br/>
+<a href="https://github.com/ankit1824/E-commerce-DB" target="_blank">
+  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" height="22px" />
+</a>
+
+<hr width="80%">
+
+<!-- POSITIONS OF RESPONSIBILITY -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffd700&text=✦%20LEADERSHIP%20&amp;%20ACTIVITIES%20✦&height=50&fontSize=26" />
+
+<br/>
+
+<div align="left" style="width: 80%; text-align: left; color: #a3a3a3; font-family: 'Segoe UI', sans-serif;">
+  <ul>
+    <li>🚀 <b>Senior Executive @ Robotics Club - MANIT</b> <span style="float: right;"><i>May 2024 - Present</i></span>
+      <p style="margin-top: 5px; font-size: 13px;">Orchestrated flagship technical robotics events including <b>Automax</b>, <b>Makeathon</b>, and <b>Roborace</b> for 300+ attendees, driving end-to-end event execution and cross-functional team coordination.</p>
+    </li>
+    <br/>
+    <li>💼 <b>Member @ Training and Placement Cell - MANIT</b> <span style="float: right;"><i>Feb 2026 - Present</i></span>
+      <p style="margin-top: 5px; font-size: 13px;">Facilitated campus placement drives and recruitment operations for 300+ student candidates, and built a structured database connecting with 200+ HR industry professionals via LinkedIn.</p>
+    </li>
+  </ul>
+</div>
+
+<br/><br/>
+
+<!-- Footer Wave Banner (Stealth Gold theme) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffaa00,100:ffd700&height=80&section=footer" width="100%" />
+
+</div>
