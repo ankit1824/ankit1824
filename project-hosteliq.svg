@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="800" height="220">
+  <style>
+    .title { font-family: 'Orbitron', 'Segoe UI', monospace; font-weight: 900; fill: #ffd700; font-size: 18px; letter-spacing: 2px; }
+    .subtitle { font-family: 'Segoe UI', sans-serif; font-weight: 700; fill: #ffffff; font-size: 13px; letter-spacing: 1px; }
+    .body { font-family: 'Segoe UI', sans-serif; fill: #a3a3a3; font-size: 12px; }
+    .tech-tag { font-family: 'Orbitron', monospace; font-weight: 700; fill: #ffd700; font-size: 10px; }
+  </style>
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <rect width="800" height="220" rx="12" fill="#06080c" stroke="#1f2438" stroke-width="1.5" />
+  <path d="M 0 40 L 800 40 M 0 80 L 800 80 M 0 120 L 800 120 M 0 160 L 800 160 M 200 0 L 200 220" stroke="#121620" stroke-width="1" />
+
+  <g transform="translate(40, 30)">
+    <rect width="160" height="160" rx="10" fill="#0d1117" stroke="#ffaa00" stroke-width="1.5" filter="url(#glow)" />
+    <rect x="50" y="45" width="25" height="25" rx="4" fill="none" stroke="#ffd700" stroke-width="2" />
+    <rect x="95" y="45" width="25" height="25" rx="4" fill="none" stroke="#ffd700" stroke-width="2" />
+    <rect x="72.5" y="105" width="25" height="25" rx="4" fill="none" stroke="#ffd700" stroke-width="2" />
+    <line x1="62.5" y1="70" x2="85" y2="105" stroke="#ffaa00" stroke-width="1.5" stroke-dasharray="3 3" />
+    <line x1="107.5" y1="70" x2="85" y2="105" stroke="#ffaa00" stroke-width="1.5" />
+    <line x1="62.5" y1="57.5" x2="95" y2="57.5" stroke="#ffffff" stroke-width="1.5" />
+    <circle cx="85" cy="57.5" r="4" fill="#ffaa00" filter="url(#glow)" />
+    <circle cx="73.7" cy="87.5" r="4" fill="#ffd700" filter="url(#glow)" />
+  </g>
+
+  <g transform="translate(230, 35)">
+    <text x="0" y="25" class="title">HOSTELIQ</text>
+    <text x="0" y="50" class="subtitle">Smart Hostel &amp; Room Allocation Platform</text>
+    <text x="0" y="80" class="body">MERN stack allocation engine featuring a custom graph-matching optimization algorithm.</text>
+    <text x="0" y="100" class="body">Pairs roommates automatically using lifestyle questionnaire scores as edge weights.</text>
+    <text x="0" y="120" class="body">Role-based admin dashboard to manage student registrations and room availability.</text>
+    <g transform="translate(0, 145)">
+      <rect width="60" height="22" rx="5" fill="#1c180b" stroke="#ffaa00" stroke-width="1" />
+      <text x="30" y="14" class="tech-tag" text-anchor="middle">REACT</text>
+      <rect x="70" width="70" height="22" rx="5" fill="#1c180b" stroke="#ffaa00" stroke-width="1" />
+      <text x="105" y="14" class="tech-tag" text-anchor="middle">NODE.JS</text>
+      <rect x="150" width="90" height="22" rx="5" fill="#1c180b" stroke="#ffd700" stroke-width="1" />
+      <text x="195" y="14" class="tech-tag" text-anchor="middle">EXPRESS.JS</text>
+      <rect x="250" width="80" height="22" rx="5" fill="#1c180b" stroke="#ffaa00" stroke-width="1" />
+      <text x="290" y="14" class="tech-tag" text-anchor="middle">MONGODB</text>
+      <rect x="340" width="80" height="22" rx="5" fill="#1c180b" stroke="#ffaa00" stroke-width="1" />
+      <text x="380" y="14" class="tech-tag" text-anchor="middle">REST APIS</text>
+    </g>
+  </g>
+</svg>
