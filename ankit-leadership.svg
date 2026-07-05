@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <style>
+    .title { font-family: 'Orbitron', 'Segoe UI', monospace; font-weight: 900; fill: #ffd700; font-size: 13px; letter-spacing: 2px; }
+    .subtitle { font-family: 'Segoe UI', sans-serif; font-weight: 700; fill: #ffffff; font-size: 11px; letter-spacing: 1px; }
+    .body { font-family: 'Segoe UI', sans-serif; fill: #a3a3a3; font-size: 11px; }
+    .card-bg { fill: #0d1117; stroke: #262e3d; stroke-width: 1.5; }
+    .glow-line { stroke-width: 2; stroke-linecap: round; }
+  </style>
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <linearGradient id="gold-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffd700" />
+      <stop offset="100%" stop-color="#ffaa00" />
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="200" rx="12" fill="#06080c" stroke="url(#gold-grad)" stroke-width="1.5" />
+  <path d="M 0 40 L 800 40 M 0 80 L 800 80 M 0 120 L 800 120 M 0 160 L 800 160 M 400 0 L 400 200" stroke="#121620" stroke-width="1" />
+
+  <!-- PANEL 1: ROBOTICS CLUB EXECUTIVE -->
+  <g transform="translate(30, 25)">
+    <rect width="350" height="150" rx="8" class="card-bg" />
+    <path d="M 10 0 L 340 0" stroke="#ffd700" class="glow-line" filter="url(#glow)" />
+    
+    <g transform="translate(15, 25)">
+      <circle cx="25" cy="25" r="20" fill="none" stroke="#ffaa00" stroke-width="1.5" />
+      <path d="M 25 2 L 25 10 M 25 40 L 25 48 M 2 25 L 10 25 M 40 25 L 48 25 M 9 9 L 15 15 M 35 35 L 41 41 M 9 41 L 15 35 M 35 9 L 41 15" stroke="#ffaa00" stroke-width="2" />
+      <circle cx="25" cy="25" r="8" fill="#0d1117" stroke="#ffd700" stroke-width="1.5" filter="url(#glow)" />
+    </g>
+
+    <g transform="translate(75, 20)">
+      <text x="0" y="15" class="title">ROBOTICS CLUB EXECUTIVE</text>
+      <text x="0" y="32" class="subtitle">Robotics Club, MANIT | 2024 - Present</text>
+      <text x="0" y="60" class="body">• Led Automax, Makeathon &amp; Roborace (300+ attendees).</text>
+      <text x="0" y="78" class="body">• Directed technical logistics and on-ground executions.</text>
+      <text x="0" y="96" class="body">• Managed cross-functional team and resource planning.</text>
+    </g>
+  </g>
+
+  <!-- PANEL 2: PLACEMENT CELL -->
+  <g transform="translate(420, 25)">
+    <rect width="350" height="150" rx="8" class="card-bg" />
+    <path d="M 10 0 L 340 0" stroke="#ffd700" class="glow-line" filter="url(#glow)" />
+    
+    <g transform="translate(15, 25)">
+      <rect x="5" y="10" width="40" height="30" rx="3" fill="none" stroke="#ffaa00" stroke-width="1.5" />
+      <path d="M 18 10 L 18 5 C 18 3, 32 3, 32 5 L 32 10" fill="none" stroke="#ffaa00" stroke-width="1.5" />
+      <circle cx="25" cy="25" r="4" fill="#ffd700" filter="url(#glow)" />
+    </g>
+
+    <g transform="translate(75, 20)">
+      <text x="0" y="15" class="title">PLACEMENT COORDINATOR</text>
+      <text x="0" y="32" class="subtitle">Training &amp; Placement Cell | 2026 - Present</text>
+      <text x="0" y="60" class="body">• Handled campus recruitment operations for 300+ candidates.</text>
+      <text x="0" y="78" class="body">• Built structured database of 200+ HR professionals.</text>
+      <text x="0" y="96" class="body">• Accelerated corporate outreach drives via LinkedIn.</text>
+    </g>
+  </g>
+</svg>
