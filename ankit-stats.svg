@@ -29,21 +29,21 @@
   <text x="40" y="27" class="title">✦ ALGORITHMIC PERFORMANCE DIAGNOSTICS ✦</text>
   <line x1="40" y1="38" x2="760" y2="38" stroke="#1f2438" stroke-width="1.5" />
 
-  <!-- COLUMN 1: LEETCODE (Guardian / 2007) -->
+  <!-- COLUMN 1: LEETCODE (Knight / 1984) -->
   <g transform="translate(50, 55)">
     <rect width="210" height="155" rx="10" class="card-bg" />
     <path d="M 10 0 L 200 0" stroke="#ffd700" stroke-width="2" stroke-linecap="round" filter="url(#glow-gold)" />
     
     <text x="105" y="25" class="label" text-anchor="middle">LEETCODE RATING</text>
-    <text x="105" y="55" class="value" fill="#ffa116" text-anchor="middle">2007</text>
-    <text x="105" y="75" class="tier-text" text-anchor="middle">GUARDIAN</text>
-    <text x="105" y="95" class="label" text-anchor="middle">TOP 1.5% GLOBALLY</text>
+    <text x="105" y="55" class="value" fill="#ffa116" text-anchor="middle">1984</text>
+    <text x="105" y="75" class="tier-text" text-anchor="middle">KNIGHT</text>
+    <text x="105" y="95" class="label" text-anchor="middle">TOP 2.81% GLOBALLY</text>
     
     <!-- Progress circle outline -->
     <circle cx="105" cy="125" r="18" fill="none" stroke="#222" stroke-width="3" />
     <!-- Progress circle filled -->
-    <circle cx="105" cy="125" r="18" fill="none" stroke="#ffd700" stroke-width="3" stroke-dasharray="113" stroke-dashoffset="2" stroke-linecap="round" filter="url(#glow-gold)" />
-    <text x="105" y="129" font-family="'Orbitron', sans-serif" font-size="9" fill="#ffffff" font-weight="bold" text-anchor="middle">98%</text>
+    <circle cx="105" cy="125" r="18" fill="none" stroke="#ffd700" stroke-width="3" stroke-dasharray="113" stroke-dashoffset="3" stroke-linecap="round" filter="url(#glow-gold)" />
+    <text x="105" y="129" font-family="'Orbitron', sans-serif" font-size="9" fill="#ffffff" font-weight="bold" text-anchor="middle">97%</text>
   </g>
 
   <!-- COLUMN 2: CODECHEF (4-Star / 1824) -->
