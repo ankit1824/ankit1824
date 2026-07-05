@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" width="800" height="380">
+  <style>
+    .section-title { font-family: 'Orbitron', 'Segoe UI', monospace; font-weight: 900; fill: #ffd700; font-size: 12px; letter-spacing: 2px; }
+    .header-text { font-family: 'Orbitron', 'Segoe UI', monospace; font-weight: 900; fill: #ffffff; font-size: 15px; letter-spacing: 3px; }
+    .card-bg { fill: #0d1117; stroke: #1f242e; stroke-width: 1.5; }
+    .chip-bg-gold { fill: #1c180b; stroke: #ffd700; stroke-width: 1; }
+    .chip-text { font-family: 'Segoe UI', sans-serif; font-size: 12px; fill: #ffffff; font-weight: 700; text-anchor: middle; }
+    .glow-line { stroke-width: 2; stroke-linecap: round; }
+  </style>
+
+  <defs>
+    <filter id="glow-gold" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <linearGradient id="gold-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffd700" />
+      <stop offset="100%" stop-color="#ffaa00" />
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="380" rx="15" fill="#06080c" stroke="url(#gold-grad)" stroke-width="2" />
+  <path d="M 0 40 L 800 40 M 0 80 L 800 80 M 0 120 L 800 120 M 0 160 L 800 160 M 0 200 L 800 200 M 0 240 L 800 240 M 0 280 L 800 280 M 0 320 L 800 320 M 100 0 L 100 380 M 200 0 L 200 380 M 300 0 L 300 380 M 400 0 L 400 380 M 500 0 L 500 380 M 600 0 L 600 380 M 700 0 L 700 380" stroke="#121620" stroke-width="1" />
+
+  <text x="40" y="32" class="header-text">✦ TECHNICAL ARSENAL // CORE MATRICES ✦</text>
+  <line x1="40" y1="42" x2="760" y2="42" stroke="#1f2438" stroke-width="1.5" />
+
+  <g transform="translate(40, 60)">
+    <rect width="340" height="135" rx="10" class="card-bg" />
+    <path d="M 10 0 L 330 0" stroke="#ffd700" class="glow-line" filter="url(#glow-gold)" />
+    <text x="20" y="25" class="section-title">LANGUAGES &amp; DATABASES</text>
+    <rect x="20" y="40" width="140" height="24" rx="6" class="chip-bg-gold" filter="url(#glow-gold)" />
+    <text x="90" y="56" class="chip-text">C / C++</text>
+    <rect x="20" y="72" width="140" height="24" rx="6" class="chip-bg-gold" />
+    <text x="90" y="88" class="chip-text">Python</text>
+    <rect x="20" y="104" width="140" height="24" rx="6" class="chip-bg-gold" />
+    <text x="90" y="120" class="chip-text">SQL</text>
+    <rect x="180" y="40" width="140" height="24" rx="6" class="chip-bg-gold" />
+    <text x="250" y="56" class="chip-text">JavaScript</text>
+    <rect x="180" y="72" width="140" height="24" rx="6" class="chip-bg-gold" />
+    <text x="250" y="88" class="chip-text">Neon PostgreSQL</text>
+    <rect x="180" y="104" width="140" height="24" rx="6" class="chip-bg-gold" />
+    <text x="250" y="120" class="chip-text">MongoDB / MySQL</text>
+  </g>
+
+  <g transform="translate(420, 60)">
+    <rect width="340" height="135" rx="10" class="card-bg" />
+    <path d="M 10 0 L 330 0" stroke="#ffaa00" class="glow-line" />
+    <text x="20" y="25" class="section-title">DEVELOPMENT STACK</text>
+    <rect x="20" y="40" width="140" height="24" rx="6" class="chip-bg-gold" />
+    <text x="90" y="56" class="chip-text">React.js</text>
+    <rect x="20" y="72" width="140" height="24" rx="6" class="chip-bg-gold" />
+    <text x="90" y="88" class="chip-text">Node.js</text>
+    <rect x="20" y="104" width="140" height="24" rx="6" class="chip-bg-gold" />
+    <text x="90" y="120" class="chip-text">Express.js</text>
+    <rect x="180" y="40" width="140" height="24" rx="6" class="chip-bg-gold" />
+    <text x="250" y="56" class="chip-text">FastAPI</text>
+    <rect x="180" y="72" width="140" height="24" rx="6" class="chip-bg-gold" />
+    <text x="250" y="88" class="chip-text">REST APIs</text>
+    <rect x="180" y="104" width="140" height="24" rx="6" class="chip-bg-gold" />
+    <text x="250" y="120" class="chip-text">JWT Auth</text>
+  </g>
+
+  <g transform="translate(40, 215)">
+    <rect width="340" height="135" rx="10" class="card-bg" />
+    <path d="M 10 0 L 330 0" stroke="#ffaa00" class="glow-line" />
+    <text x="20" y="25" class="section-title">DEVELOPER TOOLS</text>
+    <rect x="20" y="40" width="140" height="24" rx="6" class="chip-bg-gold" />
+    <text x="90" y="56" class="chip-text">Git / GitHub</text>
+    <rect x="20" y="72" width="140" height="24" rx="6" class="chip-bg-gold" />
+    <text x="90" y="88" class="chip-text">VS Code</text>
+    <rect x="180" y="40" width="140" height="24" rx="6" class="chip-bg-gold" />
+    <text x="250" y="56" class="chip-text">Jupyter Notebook</text>
+    <rect x="180" y="72" width="140" height="24" rx="6" class="chip-bg-gold" />
+    <text x="250" y="88" class="chip-text">Vercel / Render</text>
+  </g>
+
+  <g transform="translate(420, 215)">
+    <rect width="340" height="135" rx="10" class="card-bg" />
+    <path d="M 10 0 L 330 0" stroke="#ffd700" class="glow-line" filter="url(#glow-gold)" />
+    <text x="20" y="25" class="section-title">CS COURSEWORK &amp; CONCEPTS</text>
+    <rect x="20" y="40" width="140" height="24" rx="6" class="chip-bg-gold" filter="url(#glow-gold)" />
+    <text x="90" y="56" class="chip-text">DSA</text>
+    <rect x="20" y="72" width="140" height="24" rx="6" class="chip-bg-gold" />
+    <text x="90" y="88" class="chip-text">DBMS</text>
+    <rect x="20" y="104" width="140" height="24" rx="6" class="chip-bg-gold" />
+    <text x="90" y="120" class="chip-text">OOPs Concept</text>
+    <rect x="180" y="40" width="140" height="24" rx="6" class="chip-bg-gold" />
+    <text x="250" y="56" class="chip-text">Operating Systems</text>
+    <rect x="180" y="72" width="140" height="24" rx="6" class="chip-bg-gold" />
+    <text x="250" y="88" class="chip-text">Computer Networks</text>
+    <rect x="180" y="104" width="140" height="24" rx="6" class="chip-bg-gold" />
+    <text x="250" y="120" class="chip-text">Machine Learning</text>
+  </g>
+</svg>
