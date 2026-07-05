@@ -31,8 +31,8 @@
 
   <g transform="translate(400, 100)" text-anchor="middle">
     <text x="0" y="-15" class="name-text" filter="url(#glow)">ANKIT PRAJAPAT</text>
-    <text x="0" y="15" class="sub-text">COMPETITIVE PROGRAMMER // FULL STACK ENGINEER</text>
-    <text x="0" y="38" class="specs-text">B.TECH ECE (CSE MINOR) @ MANIT BHOPAL</text>
+    <text x="0" y="15" class="sub-text">Software Engineer // Full Stack Developer</text>
+    <text x="0" y="38" class="specs-text">ECE (CSE MINOR) @ MANIT BHOPAL</text>
   </g>
 
   <g transform="translate(30, 75)" class="system-status">
@@ -44,10 +44,10 @@
   </g>
 
   <g transform="translate(680, 75)" class="system-status">
-    <text x="0" y="0">ALGO_SOLVED: 650+</text>
-    <text x="0" y="15">LC_PEAK: 2007</text>
+    <text x="0" y="0">INTEREST: GEN_AI</text>
+    <text x="0" y="15">LC_RATING: 1984</text>
     <text x="0" y="30">CF_SPECIALIST: 1515</text>
     <rect x="0" y="40" width="80" height="4" fill="#ffd700" opacity="0.3" />
-    <rect x="0" y="40" width="72" height="4" fill="#ffd700" class="glow-gold" />
+    <rect x="0" y="40" width="60" height="4" fill="#ffd700" class="glow-gold" />
   </g>
 </svg>
